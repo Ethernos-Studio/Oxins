@@ -16,7 +16,7 @@
               "https://hk.gh-proxy.org/https://github.com/cavvy-lang/Cavvy/releases/download/v0.5.0.1/cavvy-0.5.0.1-win86-64-mingw64-llvm21.zip",
               "https://cdn.gh-proxy.org/https://github.com/cavvy-lang/Cavvy/releases/download/v0.5.0.1/cavvy-0.5.0.1-win86-64-mingw64-llvm21.zip",
               "https://edgeone.gh-proxy.org/https://github.com/cavvy-lang/Cavvy/releases/download/v0.5.0.1/cavvy-0.5.0.1-win86-64-mingw64-llvm21.zip"
-            ],
+            ]
           }
         }
       }
