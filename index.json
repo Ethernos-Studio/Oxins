@@ -1,0 +1,20 @@
+{
+  "name": "Ethernos Official Source",
+  "packages": {
+    "cavvy": {
+      "versions": {
+        "0.5.0.1": {
+          "cert_hash": "6132b6130cffab6a",
+          "deps": {},
+          "dist": {
+            "format": "zip",
+            "sha256": "6132b6130cffab6a6f77e9563dee7efd5e9f475ec99ef224ad1412880eb18574",
+            "size": 463003695,
+            "url": "https://github.com/cavvy-lang/Cavvy/releases/download/v0.5.0.1/cavvy-0.5.0.1-win86-64-mingw64-llvm21.zip"
+          }
+        }
+      }
+    }
+  },
+  "version": "1.0.0"
+}
